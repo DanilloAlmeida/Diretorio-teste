@@ -1,1 +1,1 @@
-linha 01: 19h44
+linha 01: 19h44 a partir daqui, alterei no linux
